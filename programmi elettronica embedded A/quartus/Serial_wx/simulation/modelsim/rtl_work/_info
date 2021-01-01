@@ -1,0 +1,178 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\quartus\Serial_wx\simulation\modelsim
+Pglobal
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+w1590489233
+Z3 dC:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\quartus\Serial_wx\simulation\modelsim
+8C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/GLOBAL.vhd
+FC:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/GLOBAL.vhd
+l0
+L4
+V^`_Z2kkXM67;PWJK:B72<3
+Z4 OV;C;10.1d;51
+31
+Z5 o-93 -work work -O0
+Z6 tExplicit 1
+!s100 `kCZFgJ@S^3zbfL5[Qb@C1
+!i10b 1
+!s108 1590574367.726000
+!s90 -reportprogress|300|-93|-work|work|C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/GLOBAL.vhd|
+!s107 C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/GLOBAL.vhd|
+Eserial_wx
+Z7 w1590573271
+Z8 DPx4 work 6 global 0 22 ^`_Z2kkXM67;PWJK:B72<3
+Z9 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R3
+Z10 8C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/Serial_wx.vhd
+Z11 FC:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/Serial_wx.vhd
+l0
+L7
+V4cBF9mMQjJL_6Lfc0YHJe1
+R4
+31
+Z12 !s108 1590574367.856000
+Z13 !s90 -reportprogress|300|-93|-work|work|C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/Serial_wx.vhd|
+Z14 !s107 C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/Serial_wx.vhd|
+R5
+R6
+!s100 UA?M6HW;9FKjkzW6HYC?O3
+!i10b 1
+Abehav
+R8
+R9
+R1
+R2
+DEx4 work 9 serial_wx 0 22 4cBF9mMQjJL_6Lfc0YHJe1
+l21
+L16
+V>Y5Z@iO]3<K=6f?CzX`?S3
+R4
+31
+R12
+R13
+R14
+R5
+R6
+!s100 H<5CFAhT`5P622OCEXUln3
+!i10b 1
+Eserial_wx_vhd_tst
+Z15 w1590573316
+R8
+R9
+R1
+R2
+R3
+Z16 8C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/simulation/modelsim/Serial_wx.vht
+Z17 FC:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/simulation/modelsim/Serial_wx.vht
+l0
+L7
+VjV7T9k7lkUGTIc14c_Qb72
+!s100 Q`<L^H6PY=A0kK8862JXg3
+R4
+32
+!i10b 1
+Z18 !s108 1590574409.163000
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/simulation/modelsim/Serial_wx.vht|
+Z20 !s107 C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/simulation/modelsim/Serial_wx.vht|
+Z21 o-work work -O0
+R6
+Aserial_wx_arch
+R8
+R9
+R1
+R2
+Z22 DEx4 work 17 serial_wx_vhd_tst 0 22 jV7T9k7lkUGTIc14c_Qb72
+l29
+L10
+Z23 V>XG5gTZ@l5MN3@IUjW=0c2
+Z24 !s100 ezloDddDmYb]YZl3ISAOd1
+R4
+32
+!i10b 1
+R18
+R19
+R20
+R21
+R6
+Esig_altmult_accum
+Z25 w1590487188
+R8
+R9
+R1
+R2
+R3
+Z26 8C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/sig_altmult_accum.vhd
+Z27 FC:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/sig_altmult_accum.vhd
+l0
+L6
+VJCO5f[;S2:LZMY7Aj?Ok=1
+R4
+31
+Z28 !s108 1590574368.173000
+Z29 !s90 -reportprogress|300|-93|-work|work|C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/sig_altmult_accum.vhd|
+Z30 !s107 C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/sig_altmult_accum.vhd|
+R5
+R6
+!s100 =Jl^lc9[IlgL0jY558;W90
+!i10b 1
+Artl
+R8
+R9
+R1
+R2
+DEx4 work 17 sig_altmult_accum 0 22 JCO5f[;S2:LZMY7Aj?Ok=1
+l19
+L15
+VRNeBX58zicClMDHmB3@YA0
+R4
+31
+R28
+R29
+R30
+R5
+R6
+!s100 J^G[ejD3`_WVUKM6SSfQL1
+!i10b 1
+Esingle_clock_rw_ram
+Z31 w1590574135
+R8
+R1
+R2
+R3
+Z32 8C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/single_clock_rw_ram.vhd
+Z33 FC:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/single_clock_rw_ram.vhd
+l0
+L5
+Vd_H;>gF6A]Ygbi9I1EAkO3
+R4
+31
+Z34 !s108 1590574368.021000
+Z35 !s90 -reportprogress|300|-93|-work|work|C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/single_clock_rw_ram.vhd|
+Z36 !s107 C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/single_clock_rw_ram.vhd|
+R5
+R6
+!s100 _H]jQ0SfB7foJ7T6i;;H:3
+!i10b 1
+Artl
+R8
+R1
+R2
+DEx4 work 19 single_clock_rw_ram 0 22 d_H;>gF6A]Ygbi9I1EAkO3
+l18
+L15
+V:a<]:^H7Go@EBH@T1SAk51
+R4
+31
+R34
+R35
+R36
+R5
+R6
+!s100 d?K0SZ7R?Lo42C:;zOJQo1
+!i10b 1

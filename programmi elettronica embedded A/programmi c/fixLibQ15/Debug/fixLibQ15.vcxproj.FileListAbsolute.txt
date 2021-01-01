@@ -1,0 +1,2 @@
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\fixLibQ15\Debug\fixLibQ15.lib
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\fixLibQ15\Debug\fixLibQ15.pdb

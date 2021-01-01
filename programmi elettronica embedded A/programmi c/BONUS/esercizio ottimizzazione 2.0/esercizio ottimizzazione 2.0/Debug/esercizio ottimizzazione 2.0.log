@@ -1,0 +1,8 @@
+﻿  cl : warning della riga di comando D9025 : override di '/sdl' con '/GS-'
+  isqrt.c
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\isqrt.c(11,50): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\isqrt.c(6,1): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\isqrt.c(22,19): warning C4101: 'k': variabile locale senza riferimenti
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\isqrt.c(22,16): warning C4101: 'j': variabile locale senza riferimenti
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\isqrt.c(22,13): warning C4101: 'i': variabile locale senza riferimenti
+  esercizio ottimizzazione 2.0.vcxproj -> C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\Debug\esercizio ottimizzazione 2.0.exe

@@ -1,0 +1,70 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do and2_gate_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/and2_gate/and2_gate.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity and2_gate
+# -- Compiling architecture behav of and2_gate
+# 
+vcom -reportprogress 300 -work work {C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/and2_gate/simulation/modelsim/and2_gate.vht}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity and2_gate_vhd_tst
+# -- Compiling architecture and2_gate_arch of and2_gate_vhd_tst
+vcom -reportprogress 300 -work work {C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/and2_gate/simulation/modelsim/and2_gate.vht}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity and2_gate_vhd_tst
+# -- Compiling architecture and2_gate_arch of and2_gate_vhd_tst
+vcom -reportprogress 300 -work work {C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/and2_gate/simulation/modelsim/and2_gate.vht}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity and2_gate_vhd_tst
+# -- Compiling architecture and2_gate_arch of and2_gate_vhd_tst
+vcom -reportprogress 300 -work work {C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/and2_gate/simulation/modelsim/and2_gate.vht}
+vcom -reportprogress 300 -work work {C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/and2_gate/simulation/modelsim/and2_gate.vht}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity and2_gate_vhd_tst
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# ** Warning: (vcom-6) -- Waiting for lock by "Lorenzo@LORENZOPC, pid = 8640
+# ". Lockfile is "C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/and2_gate/simulation/modelsim/rtl_work/_lock".
+# 
+# -- Compiling architecture and2_gate_arch of and2_gate_vhd_tst
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity and2_gate_vhd_tst
+# -- Compiling architecture and2_gate_arch of and2_gate_vhd_tst
+vsim work.and2_gate_vhd_tst(and2_gate_arch)
+# vsim work.and2_gate_vhd_tst(and2_gate_arch) 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.and2_gate_vhd_tst(and2_gate_arch)
+# Loading work.and2_gate(behav)
+add wave -position insertpoint  \
+sim:/and2_gate_vhd_tst/a \
+sim:/and2_gate_vhd_tst/b \
+sim:/and2_gate_vhd_tst/y
+run

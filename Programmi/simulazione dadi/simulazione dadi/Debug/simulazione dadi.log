@@ -1,0 +1,4 @@
+﻿  simulazionedadi.cpp
+c:\users\lorenzo causa\desktop\programmi\simulazione dadi\simulazione dadi\simulazionedadi.cpp(15): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  simulazione dadi.vcxproj -> C:\Users\Lorenzo Causa\Desktop\Programmi\simulazione dadi\Debug\simulazione dadi.exe
+  simulazione dadi.vcxproj -> C:\Users\Lorenzo Causa\Desktop\Programmi\simulazione dadi\Debug\simulazione dadi.pdb (Partial PDB)

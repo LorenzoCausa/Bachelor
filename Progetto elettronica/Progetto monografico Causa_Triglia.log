@@ -1,0 +1,23 @@
+Circuit: * C:\Users\Lorenzo Causa\Desktop\Progetto elettronica\Progetto monografico Causa_Triglia.asc
+
+Direct Newton iteration for .op point succeeded.
+Changing Tseed to 9.76563e-011
+Heightened Def Con from 9.76563e-011 to 1.09766e-009
+
+Date: Thu Jun 27 01:18:17 2019
+Total elapsed time: 0.128 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2205
+traniter = 2192
+tranpoints = 1046
+accept = 1036
+rejected = 10
+matrix size = 10
+fillins = 0
+solver = Normal
+Matrix Compiler1: 364 bytes object code size  0.4/0.3/[0.1]
+Matrix Compiler2: off  [0.4]/0.7/0.4
+

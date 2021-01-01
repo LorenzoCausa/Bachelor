@@ -1,0 +1,3 @@
+C:\Users\Lorenzo\Desktop\UNI\Programmi js\provaJSvisualstudio\obj\Debug\provaJSvisualstudio.njsprojAssemblyReference.cache
+C:\Users\Lorenzo\Desktop\UNI\Programmi js\provaJSvisualstudio\obj\Debug\provaJSvisualstudio.njsproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Desktop\UNI\Programmi js\provaJSvisualstudio\bin\Microsoft.NodejsTools.WebRole.dll

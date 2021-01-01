@@ -1,0 +1,4 @@
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\Debug\esercizio ottimizzazione 2.0.exe
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\Debug\esercizio ottimizzazione 2.0.pdb
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\Debug\esercizio ottimizzazione 2.0.exe
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\Debug\esercizio ottimizzazione 2.0.pdb

@@ -1,0 +1,6 @@
+﻿  cl : warning della riga di comando D9025 : override di '/sdl' con '/GS-'
+  main.c
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\Project1Embedded\main.c(53,13): warning C4305: '+=': troncamento da 'double' a 'float'
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\Project1Embedded\main.c(7,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\Project1Embedded\main.c(47,1): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+  Project1Embedded.vcxproj -> C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\Project1Embedded\Debug\Project1Embedded.exe

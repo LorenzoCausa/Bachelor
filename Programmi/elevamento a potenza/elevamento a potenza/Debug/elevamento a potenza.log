@@ -1,0 +1,4 @@
+﻿  elevamentoapotenza.cpp
+c:\users\lorenzo causa\desktop\programmi\elevamento a potenza\elevamento a potenza\elevamentoapotenza.cpp(26): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+  elevamento a potenza.vcxproj -> C:\Users\Lorenzo Causa\Desktop\Programmi\elevamento a potenza\Debug\elevamento a potenza.exe
+  elevamento a potenza.vcxproj -> C:\Users\Lorenzo Causa\Desktop\Programmi\elevamento a potenza\Debug\elevamento a potenza.pdb (Partial PDB)

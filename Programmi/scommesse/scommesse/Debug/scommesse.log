@@ -1,0 +1,4 @@
+﻿  scommesse.cpp
+c:\users\lorenzo causa\desktop\programmi\scommesse\scommesse\scommesse.cpp(24): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  scommesse.vcxproj -> C:\Users\Lorenzo Causa\Desktop\Programmi\scommesse\Debug\scommesse.exe
+  scommesse.vcxproj -> C:\Users\Lorenzo Causa\Desktop\Programmi\scommesse\Debug\scommesse.pdb (Partial PDB)

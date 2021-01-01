@@ -1,0 +1,5 @@
+﻿  cl : warning della riga di comando D9025 : override di '/sdl' con '/GS-'
+  main.c
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\Project1EmbeddedQ15\main.c(28,1): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\Project1EmbeddedQ15\main.c(29,1): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+  Project1Embedded.vcxproj -> C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\Project1EmbeddedQ15\Debug\Project1Embedded.exe

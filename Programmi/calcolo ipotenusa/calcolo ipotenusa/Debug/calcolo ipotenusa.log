@@ -1,0 +1,4 @@
+﻿  calcoloipotenusa.cpp
+c:\users\lorenzo causa\desktop\programmi\calcolo ipotenusa\calcolo ipotenusa\calcoloipotenusa.cpp(23): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+  calcolo ipotenusa.vcxproj -> C:\Users\Lorenzo Causa\Desktop\Programmi\calcolo ipotenusa\Debug\calcolo ipotenusa.exe
+  calcolo ipotenusa.vcxproj -> C:\Users\Lorenzo Causa\Desktop\Programmi\calcolo ipotenusa\Debug\calcolo ipotenusa.pdb (Partial PDB)

@@ -1,0 +1,11 @@
+﻿  cl : warning della riga di comando D9025 : override di '/sdl' con '/GS-'
+  pch.c
+  cl : warning della riga di comando D9025 : override di '/sdl' con '/GS-'
+  fixLibQ15.c
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\fixLibQ15\fixLibQ15.c(22,56): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\fixLibQ15\fixLibQ15.c(17,1): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\fixLibQ15\fixLibQ15.c(37,1): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\fixLibQ15\fixLibQ15.c(54,7): warning C4013: 'exit' non definita. Verrà considerata come esterna che restituisce un int.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\fixLibQ15\fixLibQ15.c(51,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\fixLibQ15\fixLibQ15.c(48,8): warning C4101: 'real': variabile locale senza riferimenti
+  fixLibQ15.vcxproj -> C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\fixLibQ15\Debug\fixLibQ15.lib

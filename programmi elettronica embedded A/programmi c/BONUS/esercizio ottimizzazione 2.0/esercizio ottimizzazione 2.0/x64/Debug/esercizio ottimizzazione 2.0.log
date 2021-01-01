@@ -1,0 +1,14 @@
+﻿  cl : warning della riga di comando D9025 : override di '/sdl' con '/GS-'
+  isqrt.c
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\isqrt.c(10,50): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\isqrt.c(5,1): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\isqrt.c(25,1): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\isqrt.c(20,19): warning C4101: 'k': variabile locale senza riferimenti
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\isqrt.c(20,16): warning C4101: 'j': variabile locale senza riferimenti
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\isqrt.c(20,13): warning C4101: 'i': variabile locale senza riferimenti
+  main.c
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\main.c(74,40): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\main.c(92,28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\main.c(137,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generazione del codice in corso...
+  esercizio ottimizzazione 2.0.vcxproj -> C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\x64\Debug\esercizio ottimizzazione 2.0.exe

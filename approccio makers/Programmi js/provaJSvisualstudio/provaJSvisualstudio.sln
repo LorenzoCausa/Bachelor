@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "provaJSvisualstudio", "provaJSvisualstudio.njsproj", "{4131DFAD-714C-4007-92D8-E19EB2BC7832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4131DFAD-714C-4007-92D8-E19EB2BC7832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4131DFAD-714C-4007-92D8-E19EB2BC7832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4131DFAD-714C-4007-92D8-E19EB2BC7832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4131DFAD-714C-4007-92D8-E19EB2BC7832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6593E4D-55D5-4492-9408-42D225D112E1}
+	EndGlobalSection
+EndGlobal

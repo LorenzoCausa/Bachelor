@@ -1,0 +1,5 @@
+﻿  isqrt.c
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\BONUS\esercizio_ottimizzazione\isqrt.c(12,46): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\BONUS\esercizio_ottimizzazione\isqrt.c(7,1): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\BONUS\esercizio_ottimizzazione\isqrt.c(27,57): warning C4305: 'funzione': troncamento da 'double' a 'float'
+  esercizio_ottimizzazione.vcxproj -> C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\BONUS\esercizio_ottimizzazione\Debug\esercizio_ottimizzazione.exe

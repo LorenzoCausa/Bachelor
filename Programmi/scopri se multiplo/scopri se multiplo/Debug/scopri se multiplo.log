@@ -1,0 +1,5 @@
+﻿  scoprisemultiplo.cpp
+c:\users\lorenzo causa\desktop\programmi\scopri se multiplo\scopri se multiplo\scoprisemultiplo.cpp(24): warning C4474: 'printf': sono stati passati troppi argomenti per la stringa di formato
+  c:\users\lorenzo causa\desktop\programmi\scopri se multiplo\scopri se multiplo\scoprisemultiplo.cpp(24): note: con i segnaposto e i relativi parametri sono previsti argomenti variadic 0, ma sono stati specificati quelli 2
+  scopri se multiplo.vcxproj -> C:\Users\Lorenzo Causa\Desktop\Programmi\scopri se multiplo\Debug\scopri se multiplo.exe
+  scopri se multiplo.vcxproj -> C:\Users\Lorenzo Causa\Desktop\Programmi\scopri se multiplo\Debug\scopri se multiplo.pdb (Partial PDB)

@@ -1,0 +1,83 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do Serial_wx_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/GLOBAL.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package GLOBAL
+# vcom -93 -work work {C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/Serial_wx.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package GLOBAL
+# -- Compiling entity Serial_wx
+# -- Compiling architecture Behav of Serial_wx
+# vcom -93 -work work {C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/single_clock_rw_ram.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package GLOBAL
+# -- Compiling entity single_clock_rw_ram
+# -- Compiling architecture rtl of single_clock_rw_ram
+# vcom -93 -work work {C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/sig_altmult_accum.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package GLOBAL
+# -- Compiling entity sig_altmult_accum
+# -- Compiling architecture rtl of sig_altmult_accum
+# 
+vcom -reportprogress 300 -work work {C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/simulation/modelsim/Serial_wx.vht}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package GLOBAL
+# -- Compiling entity Serial_wx_vhd_tst
+# -- Compiling architecture Serial_wx_arch of Serial_wx_vhd_tst
+vcom -reportprogress 300 -work work {C:/Users/Lorenzo/Desktop/UNI/programmi elettronica embedded A/quartus/Serial_wx/simulation/modelsim/Serial_wx.vht}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package GLOBAL
+# -- Compiling entity Serial_wx_vhd_tst
+# -- Compiling architecture Serial_wx_arch of Serial_wx_vhd_tst
+vsim work.serial_wx_vhd_tst
+# vsim work.serial_wx_vhd_tst 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.global
+# Loading work.serial_wx_vhd_tst(serial_wx_arch)
+# Loading work.serial_wx(behav)
+# Loading work.single_clock_rw_ram(rtl)
+# Loading work.sig_altmult_accum(rtl)
+add wave -position insertpoint  \
+sim:/serial_wx_vhd_tst/clk \
+sim:/serial_wx_vhd_tst/en \
+sim:/serial_wx_vhd_tst/nres \
+sim:/serial_wx_vhd_tst/ser_out \
+sim:/serial_wx_vhd_tst/win \
+sim:/serial_wx_vhd_tst/xin
+run
+# WARNING: No extended dataflow license exists

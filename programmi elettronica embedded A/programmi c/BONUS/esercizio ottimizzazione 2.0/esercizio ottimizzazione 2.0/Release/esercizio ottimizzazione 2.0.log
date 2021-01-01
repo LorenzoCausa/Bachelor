@@ -1,0 +1,16 @@
+﻿  cl : warning della riga di comando D9025 : override di '/sdl' con '/GS-'
+  isqrt.c
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\isqrt.c(11,50): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\isqrt.c(6,1): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\isqrt.c(22,19): warning C4101: 'k': variabile locale senza riferimenti
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\isqrt.c(22,16): warning C4101: 'j': variabile locale senza riferimenti
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\isqrt.c(22,13): warning C4101: 'i': variabile locale senza riferimenti
+  main.c
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\main.c(13,40): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\main.c(31,28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generazione codice in corso...
+  2 of 9 functions (22.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generazione codice terminata
+  esercizio ottimizzazione 2.0.vcxproj -> C:\Users\Lorenzo\Desktop\UNI\programmi elettronica embedded A\programmi c\BONUS\esercizio ottimizzazione 2.0\esercizio ottimizzazione 2.0\Release\esercizio ottimizzazione 2.0.exe

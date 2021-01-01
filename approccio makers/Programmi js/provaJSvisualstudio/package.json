@@ -1,0 +1,9 @@
+{
+  "name": "prova-jsvisualstudio",
+  "version": "0.0.0",
+  "description": "provaJSvisualstudio",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

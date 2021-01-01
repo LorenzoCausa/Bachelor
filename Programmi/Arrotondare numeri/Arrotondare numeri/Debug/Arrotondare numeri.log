@@ -1,0 +1,4 @@
+﻿  Arrotondarenumeri.cpp
+c:\users\lorenzo causa\desktop\programmi\arrotondare numeri\arrotondare numeri\arrotondarenumeri.cpp(12): error C2065: 'LC_NUMERIC': identificatore non dichiarato
+c:\users\lorenzo causa\desktop\programmi\arrotondare numeri\arrotondare numeri\arrotondarenumeri.cpp(12): error C2059: errore di sintassi: ','
+c:\users\lorenzo causa\desktop\programmi\arrotondare numeri\arrotondare numeri\arrotondarenumeri.cpp(36): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
